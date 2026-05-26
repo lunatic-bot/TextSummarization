@@ -1,3 +1,6 @@
+from textSummarizer.logging import logger
+
+logger.info("Welcome to our custom logs")
 def main():
     print("Hello from textsummarization!")
 
