@@ -1,4 +1,4 @@
-from textSummarizer.logging import logger
+from src.textsummarizer.logging import logger
 
 logger.info("Welcome to our custom logs")
 def main():
